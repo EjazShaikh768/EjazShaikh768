@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ejaz Shaikh
 - 👀 I’m interested in  Full Stack Development.
-- 🌱 I’m currently learning PHP , CODEIGNITER.
+- 🌱 I’m currently learning PHP , JAVASCRIPT.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
