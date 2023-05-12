@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ejaz Shaikh
 - 👀 I’m a  Softwae Engineer.
-- 🌱 I’m currently learning a new Technologies. and my keyskill is HTML CSS JAVASCRIPT PHP MYSQL SEO WORDPRESS AWS
+- 🌱 I’m currently learning a new Technologies. and my keyskill is HTML CSS JAVASCRIPT REACTJS PHP MYSQL SEO WORDPRESS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 you can mail me ejaz8837@gmail.com.
